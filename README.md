@@ -2,7 +2,7 @@
 
 A simple Snake Game using PyGame. 
 
-![alt text](https://github.com/AdityaNG/SnakeGame/blob/master/images/game2.png)
+![alt text](https://github.com/AdityaNG/SnakeGame/blob/master/images/game1.png)
 
 ##Objectives of the project :
 
@@ -13,7 +13,17 @@ A simple Snake Game using PyGame.
 - Implement a high-score system to keep track of the scores of players along with their names
 
 
-# Files
+## Files
 - main.py - Implementation of snake game, home screen, score screen
 - Prefs.py - Implementation of the high score storage
+
+
+## Home
+
+![alt text](https://github.com/AdityaNG/SnakeGame/blob/master/images/home.png)
+
+
+## Score
+
+![alt text](https://github.com/AdityaNG/SnakeGame/blob/master/images/score.png)
 
