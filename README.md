@@ -4,7 +4,7 @@ A simple Snake Game using PyGame.
 
 ![alt text](https://github.com/AdityaNG/SnakeGame/blob/master/images/game1.png)
 
-##Objectives of the project :
+## Objectives of the project :
 
 - Implement the Snake Game using PyGame
 - Design a home screen with Play / Quit Buttons
